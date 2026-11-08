@@ -1,8 +1,1 @@
-fastapi
-uvicorn[standard]
-faster-whisper
-gtts
-twilio
-httpx
-requests
-websockets
+# emptied
